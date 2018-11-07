@@ -3,4 +3,4 @@
 2)Clone this repository.
 3)Open file "SerialToSerialBT.ino" Location: "Project/SerialToSerialBT".
 4)Press the button "Load on the board".
-Done>>The device is visible on the bluetooth.
+Done >> Your bluetooth device is visible
